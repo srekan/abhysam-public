@@ -1,0 +1,31 @@
+word,description,hint,group,subGroup,option1,option2,option3
+Tokyo,Capital of Japan,Largest city in the world by population,Asia,East Asia,Beijing,Seoul,Bangkok
+Beijing,Capital of China,Home of the Forbidden City,Asia,East Asia,Shanghai,Tokyo,Seoul
+Seoul,Capital of South Korea,On the Han River,Asia,East Asia,Busan,Tokyo,Beijing
+New Delhi,Capital of India,Located in the north of the country,Asia,South Asia,Mumbai,Kolkata,Chennai
+Islamabad,Capital of Pakistan,Built in the 1960s to replace Karachi,Asia,South Asia,Lahore,Karachi,Peshawar
+Dhaka,Capital of Bangladesh,One of the most densely populated cities,Asia,South Asia,Chittagong,Islamabad,Mumbai
+Kathmandu,Capital of Nepal,Gateway to the Himalayas,Asia,South Asia,Pokhara,New Delhi,Thimphu
+Colombo,Capital of Sri Lanka,Major port city on the Indian Ocean,Asia,South Asia,Kandy,Galle,Mumbai
+Bangkok,Capital of Thailand,Known as the City of Angels,Asia,Southeast Asia,Phuket,Chiang Mai,Hanoi
+Hanoi,Capital of Vietnam,Located in the north of the country,Asia,Southeast Asia,Ho Chi Minh City,Bangkok,Phnom Penh
+Jakarta,Capital of Indonesia,Most populous city in Southeast Asia,Asia,Southeast Asia,Bali,Surabaya,Bandung
+Kuala Lumpur,Capital of Malaysia,Home of the Petronas Towers,Asia,Southeast Asia,Penang,Singapore,Bangkok
+Paris,Capital of France,City of Light,Europe,Western Europe,Lyon,Marseille,Berlin
+Berlin,Capital of Germany,Reunified in 1990,Europe,Western Europe,Munich,Hamburg,Vienna
+Madrid,Capital of Spain,Highest capital in the EU,Europe,Western Europe,Barcelona,Seville,Lisbon
+Rome,Capital of Italy,The Eternal City,Europe,Southern Europe,Milan,Naples,Florence
+Athens,Capital of Greece,Birthplace of democracy,Europe,Southern Europe,Thessaloniki,Rome,Istanbul
+Lisbon,Capital of Portugal,City of Seven Hills,Europe,Western Europe,Porto,Madrid,Seville
+Washington DC,Capital of the United States,Located on the Potomac River,Americas,North America,New York,Los Angeles,Chicago
+Ottawa,Capital of Canada,Located in Ontario province,Americas,North America,Toronto,Vancouver,Montreal
+Mexico City,Capital of Mexico,One of the largest cities in the world,Americas,North America,Guadalajara,Monterrey,Cancun
+Brasilia,Capital of Brazil,Planned city built in the 1950s,Americas,South America,Sao Paulo,Rio de Janeiro,Salvador
+Buenos Aires,Capital of Argentina,Paris of South America,Americas,South America,Cordoba,Rosario,Mendoza
+Lima,Capital of Peru,City of Kings,Americas,South America,Cusco,Arequipa,Trujillo
+Cairo,Capital of Egypt,Largest city in Africa,Africa,North Africa,Alexandria,Giza,Luxor
+Nairobi,Capital of Kenya,Safari capital of Africa,Africa,East Africa,Mombasa,Kisumu,Kampala
+Addis Ababa,Capital of Ethiopia,Highest capital in Africa,Africa,East Africa,Dire Dawa,Nairobi,Khartoum
+Lagos,Capital region of Nigeria,Most populous city in Africa,Africa,West Africa,Abuja,Kano,Ibadan
+Canberra,Capital of Australia,Planned city between Sydney and Melbourne,Oceania,Australasia,Sydney,Melbourne,Brisbane
+Wellington,Capital of New Zealand,Windiest city in the world,Oceania,Australasia,Auckland,Christchurch,Hamilton

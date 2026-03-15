@@ -1,0 +1,50 @@
+word,description,hint,group,subGroup,option1,option2,option3,option4,option5
+Andhra Pradesh,Amaravati,Newly designated capital on the Krishna river,State Capitals,South India,Hyderabad,Visakhapatnam,Tirupati,Vijayawada,Guntur
+Telangana,Hyderabad,City of Nizams and Charminar,State Capitals,South India,Warangal,Karimnagar,Nalgonda,Khammam,Nizamabad
+Tamil Nadu,Chennai,Gateway to South India on the Coromandel Coast,State Capitals,South India,Madurai,Coimbatore,Salem,Tirupur,Trichy
+Kerala,Thiruvananthapuram,Named after the sacred serpent Anantha,State Capitals,South India,Kochi,Kozhikode,Thrissur,Kannur,Palakkad
+Karnataka,Bengaluru,The Garden City and Silicon Valley of India,State Capitals,South India,Mysuru,Mangaluru,Hubli,Belagavi,Tumkur
+Uttar Pradesh,Lucknow,City of Nawabs and Kebabs,State Capitals,North India,Agra,Varanasi,Kanpur,Prayagraj,Mathura
+Rajasthan,Jaipur,The Pink City built in 1727 by Maharaja Jai Singh II,State Capitals,North India,Jodhpur,Udaipur,Ajmer,Bikaner,Kota
+Punjab,Chandigarh,Planned city designed by Le Corbusier,State Capitals,North India,Amritsar,Ludhiana,Jalandhar,Patiala,Bathinda
+Himachal Pradesh,Shimla,Former summer capital of British India,State Capitals,North India,Manali,Dharamshala,Kullu,Mandi,Solan
+Uttarakhand,Dehradun,Gateway to Char Dham pilgrimage sites,State Capitals,North India,Haridwar,Rishikesh,Mussoorie,Nainital,Roorkee
+Maharashtra,Mumbai,Financial capital and City of Dreams,State Capitals,West India,Pune,Nagpur,Nashik,Aurangabad,Solapur
+Gujarat,Gandhinagar,Named after Mahatma Gandhi; youngest planned capital,State Capitals,West India,Ahmedabad,Surat,Vadodara,Rajkot,Bhavnagar
+Goa,Panaji,Smallest state capital on the Mandovi river,State Capitals,West India,Margao,Vasco,Mapusa,Ponda,Calangute
+West Bengal,Kolkata,City of Joy; cultural capital of India,State Capitals,East India,Siliguri,Asansol,Durgapur,Howrah,Kharagpur
+Bihar,Patna,Ancient Pataliputra on the banks of Ganga,State Capitals,East India,Gaya,Muzaffarpur,Bhagalpur,Darbhanga,Bodh Gaya
+Odisha,Bhubaneswar,Temple City of India,State Capitals,East India,Cuttack,Puri,Rourkela,Sambalpur,Berhampur
+Jharkhand,Ranchi,City of Waterfalls on the Chota Nagpur Plateau,State Capitals,East India,Jamshedpur,Dhanbad,Bokaro,Hazaribagh,Deoghar
+Assam,Dispur,Located within the city of Guwahati,State Capitals,Northeast India,Guwahati,Jorhat,Dibrugarh,Silchar,Tezpur
+Meghalaya,Shillong,Scotland of the East in the Khasi Hills,State Capitals,Northeast India,Cherrapunji,Tura,Jowai,Nongstoin,Mawlai
+Nagaland,Kohima,Site of a decisive WWII battle against Japan,State Capitals,Northeast India,Dimapur,Mokokchung,Tuensang,Wokha,Phek
+Manipur,Imphal,Valley of Jewels surrounded by nine hills,State Capitals,Northeast India,Churachandpur,Bishnupur,Thoubal,Senapati,Ukhrul
+Bharatanatyam,Tamil Nadu,One of the oldest classical dance forms; once called Sadir,Classical Dances,All,Kerala,Andhra Pradesh,Karnataka,Odisha,Manipur
+Kathak,North India (UP & Rajasthan),Storytelling dance with fast spins called chakkar,Classical Dances,All,Odisha,Bihar,Punjab,Madhya Pradesh,Maharashtra
+Kathakali,Kerala,Known for elaborate makeup and larger-than-life costumes,Classical Dances,All,Karnataka,Tamil Nadu,Goa,Andhra Pradesh,Telangana
+Kuchipudi,Andhra Pradesh,Named after a village in Krishna district,Classical Dances,All,Telangana,Tamil Nadu,Karnataka,Kerala,Odisha
+Odissi,Odisha,One of the oldest surviving dance forms; inspired by temple sculptures,Classical Dances,All,West Bengal,Bihar,Jharkhand,Assam,Chhattisgarh
+Manipuri,Manipur,Includes the graceful Ras Lila of Radha-Krishna,Classical Dances,All,Assam,Meghalaya,Nagaland,Tripura,Mizoram
+Mohiniyattam,Kerala,Dance of the enchantress Mohini with flowing white costume,Classical Dances,All,Tamil Nadu,Karnataka,Andhra Pradesh,Goa,Maharashtra
+Sattriya,Assam,Ancient monastic dance form from Vaishnavite Sattras,Classical Dances,All,Meghalaya,Nagaland,Manipur,Mizoram,Sikkim
+Diwali,Festival of Lights,Celebrates victory of light over darkness; lasts 5 days,Festivals,National,Festival of Colors,Festival of Harvest,Festival of Brothers,Festival of Boats,Festival of Music
+Holi,Festival of Colors,Spring festival marking the victory of good over evil,Festivals,National,Festival of Lights,Festival of Harvest,Festival of Brothers,Festival of Waters,Festival of Boats
+Dussehra,Victory of Lord Rama over demon king Ravana,Celebrated on the 10th day of Navratri,Festivals,National,Birth of Lord Krishna,Beginning of new year,End of monsoon harvest,Festival of lights,Start of winter
+Pongal,Tamil Nadu harvest festival lasting four days,Celebrated in mid-January with boiling of new rice,Festivals,Regional,Onam,Bihu,Baisakhi,Ugadi,Vishu
+Onam,Kerala harvest festival marking return of King Mahabali,Features elaborate flower carpets called Pookalam,Festivals,Regional,Pongal,Baisakhi,Bihu,Ugadi,Durga Puja
+Bihu,Assamese New Year and harvest festival,Celebrated three times a year — Rongali, Kongali, Bhogali,Festivals,Regional,Onam,Pongal,Baisakhi,Durga Puja,Ugadi
+Baisakhi,Punjab harvest festival marking founding of the Khalsa,Celebrated on April 13 with bhangra and gidda,Festivals,Regional,Lohri,Hola Mohalla,Teej,Pongal,Onam
+Durga Puja,West Bengal's greatest festival worshipping Goddess Durga,10-day festival with massive artistic idols and pandals,Festivals,Regional,Navratri,Ganesh Chaturthi,Diwali,Onam,Pongal
+Ganesh Chaturthi,Maharashtra festival celebrating birth of Lord Ganesha,Lasts 10 days ending with idol immersion in water,Festivals,Regional,Gudi Padwa,Navratri,Pola,Diwali,Dussehra
+Ugadi,Telugu and Kannada New Year,Name means start of a new age; celebrated with Pachadi,Festivals,Regional,Vishu,Gudi Padwa,Baisakhi,Pongal,Onam
+Taj Mahal,Agra, Uttar Pradesh,UNESCO World Heritage Site; 7th Wonder of the World,Famous Landmarks,All,Delhi,Jaipur,Fatehpur Sikri,Mathura,Lucknow
+Red Fort,Delhi,Mughal fort built in 1638 by Emperor Shah Jahan,Famous Landmarks,All,Agra,Jaipur,Lucknow,Hyderabad,Lahore
+Gateway of India,Mumbai, Maharashtra,Arch monument built to commemorate visit of King George V,Famous Landmarks,All,Goa,Kolkata,Chennai,Kochi,Surat
+Mysore Palace,Mysuru, Karnataka,Royal residence of the Wadiyar dynasty; lit by 100000 bulbs,Famous Landmarks,All,Bengaluru,Hampi,Bidar,Badami,Mangaluru
+Konark Sun Temple,Odisha,Shaped like a giant chariot with 24 stone wheels,Famous Landmarks,All,Bhubaneswar,Puri,Cuttack,Sambalpur,Berhampur
+Qutub Minar,Delhi,Tallest brick minaret in the world at 72.5 metres,Famous Landmarks,All,Agra,Lucknow,Fatehpur Sikri,Jaipur,Mathura
+Hampi,Karnataka,Ruins of the medieval Vijayanagara Empire,Famous Landmarks,All,Mysuru,Badami,Aihole,Belur,Halebidu
+Golden Temple,Amritsar, Punjab,Holiest shrine of Sikhism; also called Harmandir Sahib,Famous Landmarks,All,Delhi,Chandigarh,Ludhiana,Jalandhar,Patiala
+Ajanta Caves,Aurangabad, Maharashtra,Buddhist rock-cut caves with paintings dating to 2nd century BC,Famous Landmarks,All,Ellora,Elephanta,Nasik,Pune,Nashik
+Varanasi Ghats,Uttar Pradesh,Bathing steps along the Ganga in one of world's oldest living cities,Famous Landmarks,All,Allahabad,Mathura,Ayodhya,Rishikesh,Haridwar
